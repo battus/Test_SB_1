@@ -1,3 +1,4 @@
-# Test_SB_1
+# Testing sample file
 
-This is the first file.. Testing purpose.
+This is the first file.. Testing purpose. 
+Added second line ..
